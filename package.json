@@ -1,0 +1,23 @@
+{
+  "name": "ragzbot",
+  "version": "1.0.0",
+  "description": "A bot created using Recast AI to know everything about me",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghavraman/ragzbot.git"
+  },
+  "author": "Raghav Raman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raghavraman/ragzbot/issues"
+  },
+  "homepage": "https://github.com/raghavraman/ragzbot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
